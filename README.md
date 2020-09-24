@@ -1,5 +1,5 @@
 # Resume
-Creating my own resume with HTML and CSS
+Creating my own resume webpage with HTML and CSS
 
 # Structure of the page:
 
