@@ -1,6 +1,11 @@
 # Resume
 Creating my own resume webpage with HTML and CSS
 
+
+ In order to see this code on browser , just prepend this fragment to the URL of any HTML file: https://htmlpreview.github.io/? e.g.:
+
+https://htmlpreview.github.io/?https://github.com/twbs/bootstrap/gh-pages/2.3.2/index.html
+
 # Structure of the page:
 
 # Header Section: 
