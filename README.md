@@ -31,6 +31,6 @@ https://htmlpreview.github.io/?https://github.com/twbs/bootstrap/gh-pages/2.3.2/
    3) Projects
    4) Contacts
    
-# Major objective of this project is to include the concepts learnt in HTML and CSS. Some of the concepts integrated in the project are HTML Forms, Gradients,Flex,justify-content among others
+Major objective of this project is to include the concepts learnt in HTML and CSS. Some of the concepts integrated in the project are HTML Forms, Gradients,Flex,justify-content among others
 
 
